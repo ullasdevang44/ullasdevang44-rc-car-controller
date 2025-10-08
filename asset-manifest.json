@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rc-car-controller/static/css/main.8f99f8a7.css",
+    "main.js": "/rc-car-controller/static/js/main.3d3ce923.js",
+    "index.html": "/rc-car-controller/index.html",
+    "main.8f99f8a7.css.map": "/rc-car-controller/static/css/main.8f99f8a7.css.map",
+    "main.3d3ce923.js.map": "/rc-car-controller/static/js/main.3d3ce923.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f99f8a7.css",
+    "static/js/main.3d3ce923.js"
+  ]
+}
